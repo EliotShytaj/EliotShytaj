@@ -43,9 +43,12 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <div align="center">
+  <h2>📊 My GitHub Contributions 📊</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EliotShytaj/EliotShytaj/output/github-contribution-grid-snake.svg" />
+  <img alt="My GitHub Contributions" src="https://github.com/EliotShytaj/EliotShytaj/raw/main/path/to/your/contributions-image.png" />
+</div>
+
   
   <br/><br/><br/>
 </div>
