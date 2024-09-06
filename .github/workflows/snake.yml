@@ -1,4 +1,4 @@
-name: Generate Dark Snake Animation
+name: Generate Commit Grid Images
 
 on:
   schedule: # Runs at 12am UTC daily
@@ -12,26 +12,28 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v2
 
-      - name: Generate Dark Snake Animation
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Commit Grid Images
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-commit-grid-light.svg?palette=github
+            dist/github-commit-grid-dark.svg?palette=github-dark
 
-      - name: Upload the animation
+      - name: Upload Commit Grid Images
         uses: actions/upload-artifact@v3
         with:
-          name: dark-snake-animation
-          path: dist/github-snake-dark.svg
+          name: commit-grid-images
+          path: |
+            dist/github-commit-grid-light.svg
+            dist/github-commit-grid-dark.svg
 
-      - name: Commit and Push Dark Snake Animation
+      - name: Commit and Push Commit Grid Images
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add -A
-          git commit -m 'Updated dark snake animation'
+          git commit -m 'Updated commit grid images'
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
