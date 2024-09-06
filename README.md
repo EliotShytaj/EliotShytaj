@@ -14,6 +14,8 @@
  
  🌱 I’m currently learning **NumPy, MatPlotLib and OpenGL**
 
+ 📫 How to reach me eliotshytaj05@gmail.com
+
 ⚡ Fun fact **The original Deadpool suit was so beloved by Ryan Reynolds that he actually stole it from the set after filming!**
 
  </div>
