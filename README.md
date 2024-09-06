@@ -43,10 +43,17 @@
 <hr/>
 
 <div align="center">
-  <div align="center">
-  <h2>📊 My GitHub Contributions 📊</h2>
-  <br>
-  <img alt="My GitHub Contributions" src="https://github.com/EliotShytaj/EliotShytaj/raw/main/path/to/your/contributions-image.png" />
+ # Welcome to My GitHub Profile!
+
+## 📊 GitHub Commit Activity
+
+![Commit Activity](https://img.shields.io/github/commit-activity/m/EliotShytaj/EliotShytaj)
+
+## My Projects
+
+- [Project 1](https://github.com/EliotShytaj/project1)
+- [Project 2](https://github.com/EliotShytaj/project2)
+
 </div>
 
   
