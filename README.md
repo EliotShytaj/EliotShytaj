@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **trading algorithm**
+ 🔭 I’m currently working on a **trading algorithm** and an **simple particle simulation**
  
- 🌱 I’m currently learning **NumPy, MatPlotLib and Bash Scripting**
+ 🌱 I’m currently learning **NumPy, MatPlotLib and OpenGL**
 
-💬 Ask me about **anything related to my projects [here](eliotshytaj05@gmail.com)**
+💬 Ask me about **anything related to my projects [here](https://github.com/EliotShytaj/EliotShytaj/issues)**!
 
 ⚡ Fun fact **The original Deadpool suit was so beloved by Ryan Reynolds that he actually stole it from the set after filming!**
 
