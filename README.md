@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **trading algorithm** and an **simple particle simulation**
+ 🔭 I’m currently working on a **Strike-Value** and an **particle simulation**
  
  🌱 I’m currently learning **NumPy, MatPlotLib and OpenGL**
 
