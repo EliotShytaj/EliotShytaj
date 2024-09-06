@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **trading algorithm**
  
- 🌱 I’m currently learning **NumPy, MatPlotLib and Bash Scrtipting**
+ 🌱 I’m currently learning **NumPy, MatPlotLib and Bash Scripting**
 
 💬 Ask me about **anything related to my projects [here](eliotshytaj05@gmail.com)**
 
