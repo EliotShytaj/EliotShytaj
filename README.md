@@ -43,7 +43,8 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 My Contributions🐍</h2>
+    <h5>Snake is eating them</h5>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EliotShytaj/EliotShytaj/main/dist/github-snake-dark.svg" />
   
