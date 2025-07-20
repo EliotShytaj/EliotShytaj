@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Strike-Value** and an **particle simulation**
+ 🔭 I’m currently working on **tradetrack**.
  
- 🌱 I’m currently learning **NumPy, MatPlotLib and OpenGL**
+ 🌱 I’m currently learning **NumPy and Matplotlib**.
 
  📫 How to reach me eliotshytaj05@gmail.com
 
