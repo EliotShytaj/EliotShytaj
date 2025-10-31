@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **tradetrack**.
+ 🔭 I’m currently working on **marketscout**.
  
- 🌱 I’m currently learning **NumPy and Matplotlib**.
+ 🌱 I’m currently learning **Dockers and PostgreSQL**.
 
  📫 How to reach me eliotshytaj05@gmail.com
 
